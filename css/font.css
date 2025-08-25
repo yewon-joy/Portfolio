@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+
+/* Gloock */
+@font-face {
+  font-family: "Gloock";
+  src: url("../font/Gloock-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Barlow */
+@font-face {
+  font-family: "Barlow";
+  src: url("../font/BarlowCondensed-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
